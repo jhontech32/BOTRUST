@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "345303127956",
+    "project_id": "botrust-19ca2",
+    "storage_bucket": "botrust-19ca2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:345303127956:android:741c37265658a04a4de181",
+        "android_client_info": {
+          "package_name": "com.bandarsolid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "345303127956-fr2cqmjaodd36o944hthnk7bc42bfe2f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIPvkDsiMCI_ZG-Qp3DA9CsaLVY4eIDqE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "345303127956-fr2cqmjaodd36o944hthnk7bc42bfe2f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
