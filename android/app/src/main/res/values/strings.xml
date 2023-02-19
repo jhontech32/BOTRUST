@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">BANDAR TERPERCAYA!</string>
+    <string name="appCenterCrashes_whenToSendCrashes" moduleConfig="true" translatable="false">DO_NOT_ASK_JAVASCRIPT</string>
+    <string name="appCenterAnalytics_whenToEnableAnalytics" moduleConfig="true" translatable="false">ALWAYS_SEND</string>
+
+    <!-- PRODUCTION -->
+    <string moduleConfig="true" name="CodePushDeploymentKey">52jeUQLCW1KdsTo3lvR3fm_hQxrnjy60-Jxef</string>
+
+    <!-- STAGGING -->
+    <!-- <string moduleConfig="true" name="CodePushDeploymentKey">AhCWDqUox668IRkzlzJ1Ctgjx-ZWCCNauMMHc</string> -->
+</resources>
+
